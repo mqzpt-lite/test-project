@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "test-project"
+name = "reminder"
 version = "0.1.0"
 description = "This project is a test for working with poetry"
 authors = ["Matthew Athanasopoulos <Matthew.Athanasopoulos@lumentum.com>"]
